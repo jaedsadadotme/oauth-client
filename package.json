@@ -1,0 +1,16 @@
+{
+  "name": "thnovice-oauth-client",
+  "version": "1.0.2",
+  "main": "index.js",
+  "author": "thnovice",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "cryptr": "^6.0.1",
+    "ejs": "^1.0.0",
+    "express": "^4.17.1",
+    "md5": "^2.2.1",
+    "minimist": "^1.2.0",
+    "node-fetch": "^2.6.0"
+  }
+}
