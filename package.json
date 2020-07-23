@@ -7,7 +7,7 @@
   "dependencies": {
     "cookie-parser": "^1.4.4",
     "cryptr": "^6.0.1",
-    "ejs": "^1.0.0",
+    "ejs": "^2.5.5",
     "express": "^4.17.1",
     "md5": "^2.2.1",
     "minimist": "^1.2.0",

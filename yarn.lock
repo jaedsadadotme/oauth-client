@@ -15,7 +15,7 @@ array-flatten@1.1.1:
   resolved "https://registry.yarnpkg.com/array-flatten/-/array-flatten-1.1.1.tgz#9a5f699051b1e7073328f2a008968b64ea2955d2"
   integrity sha1-ml9pkFGx5wczKPKgCJaLZOopVdI=
 
-body-parser@1.19.0, body-parser@^1.19.0:
+body-parser@1.19.0:
   version "1.19.0"
   resolved "https://registry.yarnpkg.com/body-parser/-/body-parser-1.19.0.tgz#96b2709e57c9c4e09a6fd66a8fd979844f69f08a"
   integrity sha512-dhEPs72UPbDnAQJ9ZKMNTP6ptJaionhP5cBb541nXPlW60Jepo9RV/a4fX4XWW9CuFNK22krhrj1+rgzifNCsw==
@@ -108,10 +108,10 @@ ee-first@1.1.1:
   resolved "https://registry.yarnpkg.com/ee-first/-/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
-ejs@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/ejs/-/ejs-1.0.0.tgz#c9c60a48a46ee452fb32a71c317b95e5aa1fcb3d"
-  integrity sha1-ycYKSKRu5FL7MqccMXuV5aofyz0=
+ejs@^2.5.5:
+  version "2.5.5"
+  resolved "https://registry.yarnpkg.com/ejs/-/ejs-2.5.5.tgz#6ef4e954ea7dcf54f66aad2fe7aa421932d9ed77"
+  integrity sha1-bvTpVOp9z1T2aq0v56pCGTLZ7Xc=
 
 encodeurl@~1.0.2:
   version "1.0.2"
@@ -395,14 +395,6 @@ setprototypeof@1.1.1:
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/statuses/-/statuses-1.5.0.tgz#161c7dac177659fd9811f43771fa99381478628c"
   integrity sha1-Fhx9rBd2Wf2YEfQ3cfqZOBR4Yow=
-
-thnovice-exception@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/thnovice-exception/-/thnovice-exception-1.0.1.tgz#b6271620b2e9744c2b7c028f325329ee5da6f3e2"
-  integrity sha512-yxygp6O/T6UdVn7UyrGJEeqSw4ABe4jXYa/aaURJ12Rv6ZWllWYA5rC9iGTMXBxAWBEskml3Ooh2315Hy8Gcyg==
-  dependencies:
-    body-parser "^1.19.0"
-    express "^4.17.1"
 
 toidentifier@1.0.0:
   version "1.0.0"
