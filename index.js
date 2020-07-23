@@ -1,5 +1,5 @@
 const app           = require("express")()
-var md5             = require('md5');
+const md5           = require('md5');
 const http          = require('http');
 const cookieParser  = require('cookie-parser');
 const fetch         = require('node-fetch');
