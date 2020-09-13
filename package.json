@@ -11,6 +11,6 @@
     "express": "^4.17.1",
     "md5": "^2.2.1",
     "minimist": "^1.2.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
